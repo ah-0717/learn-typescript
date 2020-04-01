@@ -6,4 +6,5 @@ profile = [43, 'hoge'];
 
 let profile2: [string, number] = ['hoge', 43];
 
-profile2 = [23, 'hoge'];
+// タプルだとエラーになる
+// profile2 = [23, 'hoge'];
