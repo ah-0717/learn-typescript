@@ -24,5 +24,6 @@ namespace English {
 }
 
 const me = new Japanese.Tokyo.Parson('aaa');
+const meOsaka = new Japanese.Osaka.Parson('aaa');
 
 const aaa = new English.Parson('a', 'a', 'a');
